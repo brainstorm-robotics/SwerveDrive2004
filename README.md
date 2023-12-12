@@ -1,6 +1,5 @@
 # SwerveDrive2004
-Code base for 2024 FRC competition robot with swerve drive 
-----------------------------------------------------------
+<h1><ul></u>Code base for 2024 FRC competition robot with swerve drive</u></h1>
 In the spring of 2023, we built a test chassis with four REV MAXSwerve modules. Using the code available
 at https://github.com/REVrobotics/MAXSwerve-Java-Template, we successfully got the robot working. We
 did not at that time implement a gyro and we found the swerve drive very fast and a bit hard to control
