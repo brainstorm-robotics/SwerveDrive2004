@@ -11,7 +11,7 @@ infrared and ultrasonic distance sensors and infrared obstacle sensors. We coded
 <h3>Analog Devices (Analog ports on RoboRIO)</h2>
 <ul>
    <li>ultrasonic distance sensors (distances up to 5000mm)</li>
-   infrared distance sensors (distances up to 800mm)</li>
+   <li>infrared distance sensors (distances up to 800mm)</li>
 </ul>
 <h3>Digital devices (DIO ports on RoboRIO)</h2>
 <ul>
