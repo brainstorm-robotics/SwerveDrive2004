@@ -8,16 +8,16 @@ robot on carpeted floors would behave more as expected...)
 Now, in the fall/winter of 2023, we were slow off the start line but are investigating NAVX-2 gyros, FRC Gyro,
 infrared and ultrasonic distance sensors and infrared obstacle sensors. We coded classes for:
 
-Analog Devices (Analog ports on RoboRIO)
+<h2>Analog Devices (Analog ports on RoboRIO)</h2>
 <ul>
    <li>ultrasonic distance sensors (distances up to 5000mm)</li>
    infrared distance sensors (distances up to 800mm)</li>
 </ul>
-Digital devices (DIO ports on RoboRIO)
+<h2>Digital devices (DIO ports on RoboRIO)</h2>
 <ul>
    <li>distance sensors and for infrared obstacle sensors (behaving like limit switches</li>
 </ul>ul>
-Gyros (each has a special port on the RoboRIO)
+<h2>Gyros (each has a special port on the RoboRIO)</h2>
 <ul>
    <li>FRC Gyro</li>
    <li>NavX-2 Gyro</li>
